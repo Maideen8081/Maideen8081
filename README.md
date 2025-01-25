@@ -1,8 +1,5 @@
 # Maideen8081
 
-<--#[![Github](https://img.shields.io/github/followers/antonfrancisjeejo?label=Follow&style=social)](https://github.com/antonfrancisjeejo)
-#[![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonfrancisjeejo/)]#(https://www.linkedin.com/in/antonfrancisjeejo/)-->
-
 
 
 ## About me 
