@@ -3,7 +3,6 @@
 <--#[![Github](https://img.shields.io/github/followers/antonfrancisjeejo?label=Follow&style=social)](https://github.com/antonfrancisjeejo)
 #[![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonfrancisjeejo/)]#(https://www.linkedin.com/in/antonfrancisjeejo/)-->
 
-<a href="https://app.daily.dev/antonjeejo13"><img src="https://github.com/antonfrancisjeejo/antonfrancisjeejo/blob/master/devcard.svg" width="300" alt="Anton Francis Jeejo's Dev Card"/></a>
 
 
 ## About me 
@@ -49,4 +48,4 @@ I'm a open-source development enthusiast, an instructor and a freelancer.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maideen8081)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antonfrancisjeejo)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Maideen8081)  
